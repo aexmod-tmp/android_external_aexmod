@@ -11,7 +11,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-import com.android.internal.util.lineageos.app.ContextConstants;
+import com.github.aexmod.ContextConstants;
 
 /**
  * LiveDisplay is an advanced set of features for improving

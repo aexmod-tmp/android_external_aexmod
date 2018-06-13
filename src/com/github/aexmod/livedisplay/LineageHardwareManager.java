@@ -7,7 +7,7 @@ import android.os.ServiceManager;
 import android.util.Log;
 import android.util.Range;
 
-import com.android.internal.util.lineageos.app.ContextConstants;
+import com.github.aexmod.ContextConstants;
 import com.github.aexmod.livedisplay.HSIC;
 
 import java.io.UnsupportedEncodingException;
